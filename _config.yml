@@ -1,0 +1,7 @@
+theme: minima # (or any other Jekyll theme)
+markdown: kramdown
+permalink: pretty
+
+collections:
+  posts:
+    output: true
