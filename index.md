@@ -4,7 +4,7 @@ title: Notatki z życia
 ---
 
 <ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for note in site.notes %}
+    <li><a href="{{ note.url }}">{{ note.title }}</a></li>
   {% endfor %}
 </ul>

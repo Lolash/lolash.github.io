@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Co to znaczy być bogatym
-permalink: /wealth-deutsch
 ---
 
 Poniższy tekst powstał na podstawie rozmowy Davida Deutscha z Navalem Ravikantem; rozmów z ChatGPT i lektury pierwszych rozdziałów "The Beginning of Infinity" D. Deutscha.
