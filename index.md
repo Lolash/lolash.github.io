@@ -3,10 +3,8 @@ layout: default
 title: Notatki z życia
 ---
 
-# My Notes
-
 <ul>
-  {% for note in site.notes %}
-    <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
