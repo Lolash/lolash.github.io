@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Co to znaczy być bogatym
+title:  "Bogactwo wg Deutscha"
+categories: podcast
 ---
-
 Poniższy tekst powstał na podstawie rozmowy Davida Deutscha z Navalem Ravikantem; rozmów z ChatGPT i lektury pierwszych rozdziałów "The Beginning of Infinity" D. Deutscha.
 https://www.youtube.com/watch?v=FfWbcrObpUY
 ## Co to znaczy być bogatym
