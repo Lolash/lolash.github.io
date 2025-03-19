@@ -3,8 +3,8 @@ layout: post
 title:  "Bogactwo wg Deutscha"
 categories: podcast
 ---
-Poniższy tekst powstał na podstawie rozmowy Davida Deutscha z Navalem Ravikantem; rozmów z ChatGPT i lektury pierwszych rozdziałów "The Beginning of Infinity" D. Deutscha.
-https://www.youtube.com/watch?v=FfWbcrObpUY
+Poniższy tekst powstał na podstawie [rozmowy Davida Deutscha z Navalem Ravikantem](https://www.youtube.com/watch?v=FfWbcrObpUY); rozmów z ChatGPT i lektury pierwszych rozdziałów "The Beginning of Infinity" D. Deutscha.
+
 ## Co to znaczy być bogatym
 
 Głównym wnioskiem z wywodów Davida Deutscha jest to, że bogactwo nie ogranicza się do rzeczy materialnych oraz nie polega jedynie na redystrybucji skończonej ilości dóbr. Według niego bogactwo jest nieskończone.
